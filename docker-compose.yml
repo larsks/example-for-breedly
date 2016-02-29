@@ -1,0 +1,5 @@
+container0:
+  build: container0
+
+container1:
+  build: container1
